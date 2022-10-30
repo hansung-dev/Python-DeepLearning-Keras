@@ -30,7 +30,7 @@
 ## 질의응답 &#128587;
 > 도서 학습 중 질문이 있으신가요?
 - 깃허브 Issues 탭 클릭 (New Issue 버튼 클릭)
-<img width="1137" alt="무제" src="https://user-images.githubusercontent.com/25129278/123187807-d022db80-d4d5-11eb-9953-2c2f77d84e0a.png">
+<img width="1167" alt="스크린샷 2022-10-30 오후 11 47 08" src="https://user-images.githubusercontent.com/54405342/198884991-2d9432ef-1428-4b60-a5fd-c31c57540bf4.png">
 
 - 질문 작성 
   - 제목: 말머리 글 포함 '[질문]' '[오탈자]' '[오류정정]' 등  
