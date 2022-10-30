@@ -25,14 +25,6 @@
 - Issues : https://github.com/hansung-dev/Python-DeepLearning-Keras/issues
 
 
-## 예제코드 바로 실행 :fire:
-![Kapture 2021-06-26 at 14 50 41](https://user-images.githubusercontent.com/25129278/123503432-fbe8c180-d68d-11eb-8769-d6ad00b42bbc.gif)
-
-1. 학습할 주피터 노트북(ipynb) 선택
-2. "구글 코랩(Colab)에서 실행하기" 링크 클릭
-3. "Drive로 복사" 버튼 클릭
-
-
 ## 질의응답 &#128587;
 > 도서 학습 중 질문이 있으신가요?
 - 깃허브 Issues 탭 클릭 (New Issue 버튼 클릭)
