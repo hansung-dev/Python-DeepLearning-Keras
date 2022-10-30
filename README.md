@@ -2,7 +2,8 @@
 > '파이썬 딥러닝 케라스' 도서 [정보문화사](http://www.infopub.co.kr/), [교보문고], [YES24] 예제 코드입니다 	&#128079;	
 ---
 
-그림 추가
+<img width="731" alt="스크린샷 2022-10-30 오후 11 26 37" src="https://user-images.githubusercontent.com/54405342/198884713-2da51e64-352f-41f1-8313-b091bb5f0769.png">
+
 
 ---
 
