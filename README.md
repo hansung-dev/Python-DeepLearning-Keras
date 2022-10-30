@@ -27,7 +27,7 @@
 - Issues : https://github.com/hansung-dev/Python-DeepLearning-Keras/issues
 
 
-## 질의응답 &#128587;
+## 질의응답
 > 도서 학습 중 질문이 있으신가요?
 - 깃허브 Issues 메뉴 클릭 후 New Issue 버튼 클릭
 <img width="1167" alt="스크린샷 2022-10-30 오후 11 47 08" src="https://user-images.githubusercontent.com/54405342/198884991-2d9432ef-1428-4b60-a5fd-c31c57540bf4.png">
