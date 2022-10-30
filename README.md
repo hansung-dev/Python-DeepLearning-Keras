@@ -24,14 +24,10 @@
 
 
 ## 질의응답
-- Issues : https://github.com/hansung-dev/Python-DeepLearning-Keras/issues
-
-
-## 질의응답
 > 도서 학습 중 질문이 있으신가요?
 - 깃허브 Issues 메뉴 클릭 후 New Issue 버튼 클릭
 <img width="1167" alt="스크린샷 2022-10-30 오후 11 47 08" src="https://user-images.githubusercontent.com/54405342/198884991-2d9432ef-1428-4b60-a5fd-c31c57540bf4.png">
 
-- 질문(Issues) 작성 
+- 질문([Issues](https://github.com/hansung-dev/Python-DeepLearning-Keras/issues)) 작성 
   - 제목 : 제목에는 말머리(질문, 오탈자, 오류정정)를 포함해서 작성 부탁드립니다.
   - 기타 : 페이지 및 스크린샷 등 질문에 정확한 답변을 위한 정보를 포함해주세요.
