@@ -1,7 +1,7 @@
 # 파이썬 딥러닝 케라스 
 > '파이썬 딥러닝 케라스' 도서의 예제 코드입니다.
 
-> [교보문고], [YES24], [알라딘] 인터넷 서점에서 판매 예정입니다.
+> [교보문고](https://product.kyobobook.co.kr/detail/S000200134737), [YES24](http://www.yes24.com/Product/Goods/115161107), [알라딘](http://aladin.kr/p/mzJvS) 인터넷 서점에서 판매 예정입니다.
 
 ---
 
