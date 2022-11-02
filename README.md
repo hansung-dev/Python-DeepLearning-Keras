@@ -16,6 +16,11 @@
 - 딥러닝의 시작부터 끝가지의 워크플로우에 필요한 모든 단계를 제공한다.
 - [텐서플로 개발자 자격증](https://www.tensorflow.org/certificate?hl=ko/) 및 [캐글](https://www.kaggle.com/) 대회 참여 과정을 소개한다.
 
+---
+
+<img width="671" alt="스크린샷 2022-11-02 오후 9 53 50" src="https://user-images.githubusercontent.com/54405342/199495526-95711f0c-34b0-41b0-a987-1b2ca9b92f08.png">
+
+---
 
 ## 목차
 - PART 01. 개발 환경 구축하기
