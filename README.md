@@ -5,7 +5,7 @@
 
 ---
 
-<img width="500" alt="스크린샷 2022-10-30 오후 11 26 37" src="https://user-images.githubusercontent.com/54405342/199494842-91ffba55-219f-4e34-b46c-20fd99ff8896.jpg">
+<img width="498" alt="스크린샷 2022-11-02 오후 9 56 44" src="https://user-images.githubusercontent.com/54405342/199495348-b8d74b1b-6731-4698-95fe-5e98c4cdb402.png">
 
 ---
 
